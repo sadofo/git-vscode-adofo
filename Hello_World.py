@@ -6,6 +6,7 @@ def basic_function():
     a = hello_world()
     if a == "Hello World":
         print("That's too basic, GOODBYE!")
+        a = "WAAASSUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUP World"
 
 
 basic_function()
