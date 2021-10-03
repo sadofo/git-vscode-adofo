@@ -2,4 +2,5 @@ def hello_world():
     print("Hello World")
 
 hello_world()
-# Let's see if this here works.
+hello_world()
+# Do I really want to learn this?
